@@ -284,7 +284,8 @@ int main() {
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0b96be86-c866-4aab-9154-ac023ef4565e)
+
 
 
 
